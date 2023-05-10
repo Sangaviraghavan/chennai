@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chennai/static/css/main.5bb7c474.css",
+    "main.js": "/chennai/static/js/main.768a482a.js",
+    "static/js/787.68e15393.chunk.js": "/chennai/static/js/787.68e15393.chunk.js",
+    "index.html": "/chennai/index.html",
+    "main.5bb7c474.css.map": "/chennai/static/css/main.5bb7c474.css.map",
+    "main.768a482a.js.map": "/chennai/static/js/main.768a482a.js.map",
+    "787.68e15393.chunk.js.map": "/chennai/static/js/787.68e15393.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb7c474.css",
+    "static/js/main.768a482a.js"
+  ]
+}
