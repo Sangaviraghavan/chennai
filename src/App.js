@@ -1,10 +1,10 @@
 import React from 'react';
-import { Routes, Route, BrowserRouter,Link } from "react-router-dom";
+import { Routes, Route, BrowserRouter } from "react-router-dom";
 
 //Screens Import
 import Home from './Home';
-import Search from './Search';
-import MovieBox from './MovieBox';
+// import Search from './Search';
+// import MovieBox from './MovieBox';
 function App() {
   return (
     <div className="App">

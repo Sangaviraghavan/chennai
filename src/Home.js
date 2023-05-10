@@ -2,7 +2,7 @@ import React,{useState,useEffect} from 'react';
 import './App.css';
 import MovieBox from './MovieBox';
 // import 'bootstrap/dist/css/bootstrap.min.css';
-import { Navbar,Container,Nav,Form, FormControl,Button } from 'react-bootstrap';
+import { Navbar,Container,Nav } from 'react-bootstrap';
 
 const API_URL="https://api.themoviedb.org/3/movie/popular?api_key=bcc4ff10c2939665232d75d8bf0ec093";
 const API_SEARCH="https://api.themoviedb.org/3/search/movie?api_key=bcc4ff10c2939665232d75d8bf0ec093&query";
@@ -68,7 +68,7 @@ function Home() {
 
 
 
-{/* 
+
             <Form className="d-flex" onSubmit={searchMovie} autoComplete="off">
               <FormControl
               type="search"
@@ -78,7 +78,7 @@ function Home() {
               name="query"
               value={query} onChange={changeHandler}></FormControl>
               <Button variant="secondary" type="submit">Search</Button>
-            </Form> */}
+            </Form>
           </Navbar.Collapse>
       </Container>
     </Navbar>
