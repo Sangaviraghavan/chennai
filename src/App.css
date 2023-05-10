@@ -13,7 +13,7 @@ body {
 .container {
   width: 100%;
   margin: 1em auto;
-  background-color: darkslategray;
+  background-color: rgb(40, 133, 133);
 }
 
 .grid {
